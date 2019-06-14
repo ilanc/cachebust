@@ -1,15 +1,5 @@
 #! /usr/bin/env node
 
-/*
-args {folder}
-recurse folder find .html and .ejs
-foreach file
-  output = cachebust
-  write output over file
-
-how to publish and use in app.spikedata.co.za
-useful exercise for npm
-*/
 "use strict";
 
 const fs = require("fs");

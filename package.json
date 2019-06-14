@@ -42,7 +42,7 @@
     "test": "grunt test"
   },
   "bin": {
-    "cachebust": "cli.js"
+    "cachebust": "cli2.js"
   },
   "preferGlobal": false
 }
