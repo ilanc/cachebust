@@ -24,8 +24,10 @@
     "Query string"
   ],
   "dependencies": {
-    "md5": "^2.0.0",
-    "cheerio": "^0.22.0"
+    "argparse": "1.0.10",
+    "cheerio": "1.0.0-rc.3",
+    "glob": "7.1.4",
+    "md5": "2.2.1"
   },
   "devDependencies": {
     "grunt-contrib-jshint": "^0.10.0",
